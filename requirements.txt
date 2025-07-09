@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+pdfplumber
+python-docx
+faiss-cpu
+sentence-transformers
+openai==0.28
+
